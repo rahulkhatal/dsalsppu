@@ -1,0 +1,53 @@
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 1
+
+Enter Employee ID and name :
+2020 Sai
+Enter Year and Designation :
+2015 Maneger
+Enter address :
+
+Record Inserted.
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 2
+
+   ID                NAMESALARY ROLE      CITY
+ 2020                 Sai 2015    M    aneger
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 3
+Enter Employee ID2020
+
+ 2020                 Sai 2015    M    aneger
+*****Employee Database*****
+1) Add New Record
+2) Display All Records
+3) Display by Employee ID
+4) Deleting a Record
+5) Exit
+Choose your choice : 4
+Enter Employee ID2020
+
+*****Employee Database*****
+1) Add New Record
+2) Display All Records     
+3) Display by Employee ID  
+4) Deleting a Record       
+5) Exit
+Choose your choice : 5     
+
+File Closed.

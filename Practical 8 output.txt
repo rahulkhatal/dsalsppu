@@ -1,0 +1,22 @@
+Enter no. of cities: 3
+Enter city #0 (Airport Code): 123
+Enter city #1 (Airport Code): 234
+Enter city #2 (Airport Code): 345
+
+Your cities are:
+city #0: 123
+city #1: 234
+city #2: 345
+Enter distance between 123 and 234 : 5
+Enter distance between 123 and 345 : 6
+Enter distance between 234 and 345 : 7
+
+        123             234             345
+123     0               5               6
+
+234     5               0               7
+
+345     6               7               0
+Enter Starting Vertex: 1
+DFS: 234 123 345
+BFS: 234 123 345

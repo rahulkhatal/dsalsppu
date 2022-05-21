@@ -1,0 +1,10 @@
+
+Enter the number of Students : 3
+Enter the marks :  1: 10
+Enter the marks :  2: 9
+Enter the marks :  3: 10
+
+Sorted Data : ASCENDING : ->9->10->10
+Sorted Data : DESCENDING: ->10->10->9
+Maximum Marks : 10
+Minimum marks : 9

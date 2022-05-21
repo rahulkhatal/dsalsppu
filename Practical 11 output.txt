@@ -1,0 +1,128 @@
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :1
+
+        Enter Roll Number : 20
+
+        Enter the Name : sai
+
+        Enter the Division:a
+
+        Enter the Address:loni
+
+Do you want to enter more records?
+1.Yes
+2.No1
+
+        Enter Roll Number : 21
+
+        Enter the Name : ram
+
+        Enter the Division:a
+
+        Enter the Address:kolhar
+
+Do you want to enter more records?
+1.Yes
+2.No2
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :2
+
+        20              sai             a               loni
+        21              ram             a               kolhar
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :3
+
+Enter the roll number you want to find20
+
+Record found
+        Enter Roll Number : 22
+
+        Enter the Name : divya
+
+        Enter the Division:b
+
+        Enter the Address:nagar
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :4
+
+Enter the name you want to find and editram
+
+Name found
+        Enter Roll Number : 21
+
+        Enter the Name : ram
+
+        Enter the Division:a
+
+        Enter the Address:kolhar
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :7
+Please Enter the Roll No. of Student Whose Info You Want to Delete: 21
+The record with the roll no. 21 has been deleted 
+
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :2
+
+        22              divya           b               nagar
+>>>>>>>>>>>>>>>>>>>>>>MENU<<<<<<<<<<<<<<<<<<<<
+1.Insert and overwrite
+2.Show
+3.Search & Edit(number)
+4.Search & Edit(name)
+5.Search & Edit(onlynumber)
+6.Search & edit(only name)
+ 7.Delete a Student Record
+ 8.Exit
+        Enter the Choice        :8
+
+        Thank you

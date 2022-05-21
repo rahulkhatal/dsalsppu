@@ -1,0 +1,27 @@
+How many Word to insert?:
+3
+
+ENter Word: belive
+
+Enter Meaning: trust
+
+ENter Word: doubt
+
+Enter Meaning: uncertain
+
+ENter Word: feral
+
+Enter Meaning: wild
+Ascending order
+ belive : trust
+ doubt : uncertain
+ feral : wild
+
+Descending order:
+ feral : wild
+ doubt : uncertain
+ belive : trust
+
+Enter word to search: doubt
+
+ doubt found in 2 comparisons

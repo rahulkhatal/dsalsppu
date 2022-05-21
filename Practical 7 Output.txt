@@ -1,0 +1,17 @@
+Enter the vertices no. beginning with 0 :
+Enter the Edge of a graph :
+6
+5
+
+ Want to add more edges?(y/n) : y
+
+Enter the Edge of a graph :
+4
+3
+
+ Want to add more edges?(y/n) : n
+
+Enter the vertex from where you want to traverse : 6
+The Dfs of the graph : 
+6
+5

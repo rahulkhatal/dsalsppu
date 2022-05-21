@@ -1,0 +1,45 @@
+Operations on Hash Table
+
+----------------------
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 1
+Enter element to be inserted: 12
+Enter key at which element to be inserted: 9
+
+----------------------
+Operations on Hash Table       
+
+----------------------
+1.Insert element into the table
+2.Search element from the key  
+3.Delete element at a key      
+4.Exit
+Enter your choice: 2
+Enter key of the element to be searched: 12
+No element found at key 12
+
+----------------------
+Operations on Hash Table
+
+----------------------
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 3
+Enter key of the element to be deleted: 9
+Element Deleted
+
+----------------------
+Operations on Hash Table
+
+----------------------
+1.Insert element into the table
+2.Search element from the key
+3.Delete element at a key
+4.Exit
+Enter your choice: 4
+PS D:\Cpp> 

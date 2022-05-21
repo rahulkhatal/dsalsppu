@@ -1,0 +1,22 @@
+
+How many Word to insert?:
+2
+
+ENter Word: Pravara
+
+Enter Meaning: River
+
+ENter Word: college
+
+Enter Meaning: school
+Ascending order
+ Pravara : River
+ college : school
+
+Descending order:
+ college : school
+ Pravara : River
+
+Enter word to search: Pravara
+
+ Pravara found in 1 comparisons

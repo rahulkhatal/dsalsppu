@@ -1,0 +1,30 @@
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :1
+Enter Word: India
+Enter Meaning: Country
+
+Indiainserted.
+India inserted into dictionary.
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :2
+Enter Word to Search: India
+ Word Is present.
+India = Country
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :3
+Enter Word to Delete: India
+ Word is deleted.
+**** OXFORD DICTIONARY ****
+1.Insert Word
+2.Find Word
+3.Delete Word
+Enter Your Choice :
